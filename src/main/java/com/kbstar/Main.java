@@ -4,7 +4,8 @@ package com.kbstar;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        int a= 10;
+        int a = 10;
+        int b = 20;
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
         }
